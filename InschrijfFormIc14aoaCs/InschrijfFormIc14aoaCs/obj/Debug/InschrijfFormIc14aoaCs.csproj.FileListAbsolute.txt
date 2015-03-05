@@ -1,0 +1,8 @@
+D:\VS2008\Visual Studio Cohort 2014\in de klas\InschrijfFormIc14aoaCs\InschrijfFormIc14aoaCs\bin\Debug\InschrijfFormIc14aoaCs.exe
+D:\VS2008\Visual Studio Cohort 2014\in de klas\InschrijfFormIc14aoaCs\InschrijfFormIc14aoaCs\bin\Debug\InschrijfFormIc14aoaCs.pdb
+D:\VS2008\Visual Studio Cohort 2014\in de klas\InschrijfFormIc14aoaCs\InschrijfFormIc14aoaCs\obj\Debug\ResolveAssemblyReference.cache
+D:\VS2008\Visual Studio Cohort 2014\in de klas\InschrijfFormIc14aoaCs\InschrijfFormIc14aoaCs\obj\Debug\InschrijfFormIc14aoaCs.Form1.resources
+D:\VS2008\Visual Studio Cohort 2014\in de klas\InschrijfFormIc14aoaCs\InschrijfFormIc14aoaCs\obj\Debug\InschrijfFormIc14aoaCs.Properties.Resources.resources
+D:\VS2008\Visual Studio Cohort 2014\in de klas\InschrijfFormIc14aoaCs\InschrijfFormIc14aoaCs\obj\Debug\InschrijfFormIc14aoaCs.csproj.GenerateResource.Cache
+D:\VS2008\Visual Studio Cohort 2014\in de klas\InschrijfFormIc14aoaCs\InschrijfFormIc14aoaCs\obj\Debug\InschrijfFormIc14aoaCs.exe
+D:\VS2008\Visual Studio Cohort 2014\in de klas\InschrijfFormIc14aoaCs\InschrijfFormIc14aoaCs\obj\Debug\InschrijfFormIc14aoaCs.pdb
