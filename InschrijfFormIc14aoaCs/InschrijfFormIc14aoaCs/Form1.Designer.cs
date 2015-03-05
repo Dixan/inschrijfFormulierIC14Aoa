@@ -42,6 +42,8 @@
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.miFileSaveAs = new System.Windows.Forms.ToolStripMenuItem();
             this.miFileOpen = new System.Windows.Forms.ToolStripMenuItem();
+            this.ofdInschrijvingenDkal = new System.Windows.Forms.OpenFileDialog();
+            this.sfdInschrijvingDkal = new System.Windows.Forms.SaveFileDialog();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -152,12 +154,18 @@
             this.miFileSaveAs.Name = "miFileSaveAs";
             this.miFileSaveAs.Size = new System.Drawing.Size(152, 22);
             this.miFileSaveAs.Text = "Save as..";
+            this.miFileSaveAs.Click += new System.EventHandler(this.miFileSaveAs_Click);
             // 
             // miFileOpen
             // 
             this.miFileOpen.Name = "miFileOpen";
             this.miFileOpen.Size = new System.Drawing.Size(152, 22);
             this.miFileOpen.Text = "Open..";
+            this.miFileOpen.Click += new System.EventHandler(this.miFileOpen_Click);
+            // 
+            // ofdInschrijvingenDkal
+            // 
+            this.ofdInschrijvingenDkal.FileName = "openFileDialog1";
             // 
             // Form1
             // 
@@ -200,6 +208,8 @@
         private System.Windows.Forms.ToolStripMenuItem fileToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem miFileSaveAs;
         private System.Windows.Forms.ToolStripMenuItem miFileOpen;
+        private System.Windows.Forms.OpenFileDialog ofdInschrijvingenDkal;
+        private System.Windows.Forms.SaveFileDialog sfdInschrijvingDkal;
     }
 }
 
